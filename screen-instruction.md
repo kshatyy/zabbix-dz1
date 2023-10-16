@@ -15,4 +15,10 @@
 ### Задание 1
 
 Скриншот-1 к заданию 1:
-![Скриншот-1](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img15.png)
+![Скриншот-1](https://github.com/kshatyy/dz2/blob/main/img/dz1.png)
+Скриншот-2 к заданию 1:
+![Скриншот-2](https://github.com/kshatyy/dz2/blob/main/img/dz1-1.png)
+Скриншот-3 к заданию 1:
+![Скриншот-2](https://github.com/kshatyy/dz2/blob/main/img/dz1-2.png)
+
+### Задание 2
