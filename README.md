@@ -32,3 +32,19 @@
 ![Скриншот-2](https://github.com/kshatyy/dz2/blob/main/img/dz1-2.png)
 
 ### Задание 2
+
+Скриншот-1 к заданию 2:
+![Скриншот-1](https://github.com/kshatyy/dz2/blob/main/img/dz-2.png)
+Скриншот-2 к заданию 2:
+![Скриншот-1](https://github.com/kshatyy/dz2/blob/main/img/dz-2-1.png)
+
+### Задание 3
+
+Скриншот-1 к заданию 3:
+![Скриншот-1](https://github.com/kshatyy/dz2/blob/main/img/dz3.png)
+Скриншот-2 к заданию 3:
+![Скриншот-1](https://github.com/kshatyy/dz2/blob/main/img/dz3-1.png)
+Скриншот-3 к заданию 3:
+![Скриншот-1](https://github.com/kshatyy/dz2/blob/main/img/dz3-2.png)
+Скриншот-4 к заданию 3:
+![Скриншот-1](https://github.com/kshatyy/dz2/blob/main/img/dz3-3.png)
