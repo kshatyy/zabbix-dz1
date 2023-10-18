@@ -6,7 +6,7 @@
 ### Задание 1
 
 Скриншот-1 к заданию 1:
-![Скриншот-1]([https://github.com/kshatyy/dz2/blob/main/img/1-1.png](https://github.com/kshatyy/zabbix-dz1/tree/main/img))
+![Скриншот-1](https://github.com/kshatyy/zabbix-dz1/blob/main/img/1-1.png)
 
  wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
  
@@ -56,10 +56,4 @@ systemctl enable zabbix-agent
 ### Задание 3
 
 Скриншот-1 к заданию 3:
-![Скриншот-1](https://github.com/kshatyy/dz2/blob/main/img/dz3.png)
-Скриншот-2 к заданию 3:
-![Скриншот-1](https://github.com/kshatyy/dz2/blob/main/img/dz3-1.png)
-Скриншот-3 к заданию 3:
-![Скриншот-1](https://github.com/kshatyy/dz2/blob/main/img/dz3-2.png)
-Скриншот-4 к заданию 3:
-![Скриншот-1](https://github.com/kshatyy/dz2/blob/main/img/dz3-3.png)
+(https://github.com/kshatyy/zabbix-dz1/blob/main/img/3.png)
