@@ -56,4 +56,4 @@ systemctl enable zabbix-agent
 ### Задание 3
 
 Скриншот-1 к заданию 3:
-![Скриншот-1](https://github.com/kshatyy/zabbix-dz1/blob/main/img/3.png)
+![Скриншот-1](https://github.com/kshatyy/zabbix-dz1/blob/main/img/3.jpg)
